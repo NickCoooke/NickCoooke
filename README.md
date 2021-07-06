@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi! I'm currently working on a fire tracking web-app and a climate action database! 
 
 <!--
 **NickCoooke/NickCoooke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
